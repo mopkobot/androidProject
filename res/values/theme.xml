@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Styled" parent="Theme.Sherlock.Light.DarkActionBar">
+        <item name="actionBarStyle">@style/Widget.Sherlock.ActionBar</item>
+        <item name="android:actionBarStyle">@style/Widget.Sherlock.ActionBar</item>
+    </style>
+
+</resources>

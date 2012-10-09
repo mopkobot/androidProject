@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Downloads/JakeWharton-ActionBarSherlock-e5c2d1c/library/Library.iml" filepath="$USER_HOME$/Downloads/JakeWharton-ActionBarSherlock-e5c2d1c/library/Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newaApp.iml" filepath="$PROJECT_DIR$/newaApp.iml" />
+    </modules>
+  </component>
+</project>
+
